@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dulmika</h1>
+<h1 align="center">Hi 👋, I'm Dulmika Semal</h1>
 <h3 align="center">A passionate software enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cupocode.com/wp-content/uploads/2022/09/giphy-1.gif" alt="dulmik2003" /></a> </p>
+
+- 🔭 I’m currently working on **Some fullstack projects**
 
 - 🌱 I’m currently learning **Node Js, Next Js**
 
@@ -13,10 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dulmika semal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulmika semal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:22796206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22796206" height="30" width="40" /></a>
-<a href="https://fb.com/dulmika semal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulmika semal" height="30" width="40" /></a>
-<a href="[https://www.hackerrank.com/dulmika semal](https://www.hackerrank.com/profile/semaldulmika)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dulmika semal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/dulmika-semal-19955a2b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dulmika-semal-19955a2b3" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22796206/dulmika-semal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22796206/dulmika-semal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/semaldulmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/semaldulmika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
