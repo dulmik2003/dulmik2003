@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/dulmika semal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulmika semal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:22796206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22796206" height="30" width="40" /></a>
 <a href="https://fb.com/dulmika semal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulmika semal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dulmika semal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dulmika semal" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/dulmika semal](https://www.hackerrank.com/profile/semaldulmika)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dulmika semal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
