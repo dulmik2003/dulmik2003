@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dulmika Semal</h1>
-<h3 align="center">A passionate software enthusiast</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cupocode.com/wp-content/uploads/2022/09/giphy-1.gif" alt="dulmik2003" /></a> </p>
 
